@@ -1,6 +1,7 @@
 import React from "react";
+import CollectionItem from "../collection-item/collection-item.component";
+
 import "./sample-collection.styles.scss";
-import CollectionItem from "../collection-item/collection-item.component"
 
 const SampleCollection = ({ title, items }) => (
     <div className="sample-collection">

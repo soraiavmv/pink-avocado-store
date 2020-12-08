@@ -1,6 +1,7 @@
 import React from 'react';
+import Menu from "./../../components/menu/menu.component";
+
 import "./homepage.styles.scss"
-import Menu from "./../../components/menu/menu.component"
 
 const HomePage = () => (
     <div className="homepage">
