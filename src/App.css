@@ -2,3 +2,8 @@ body {
     font-family: "Bebas Neue", cursive;
     padding: 20px 80px;
 }
+
+a {
+    color: rgb(59, 51, 51);
+    text-decoration: none;
+}
